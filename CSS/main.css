@@ -1,0 +1,53 @@
+
+
+.fondoscuro {
+    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.6)) , url(/Proyectos/Imagenes/123.png);
+    background-repeat: no-repeat;
+
+}
+
+.fmontse{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.t1 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.bordesinput {
+    border-radius: 0.5em;
+    border: 1px rgb(187, 172, 172) solid;
+    
+}
+
+.fondoicono{
+    border: 1px grey solid;
+    border-radius: 100%;
+
+}
+
+
+.panbtn{
+    padding: .3em;
+    color: white;
+    border-color: white;
+    border-radius: 0.5em;
+    background-color: transparent;
+
+
+}
+
+.ploco{
+    padding: 6.5em 0em;
+
+
+}
+
+.plocob{
+    padding: 0em 0em 5.5em 0em;
+
+}
